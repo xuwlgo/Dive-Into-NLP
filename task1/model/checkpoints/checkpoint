@@ -1,0 +1,2 @@
+model_checkpoint_path: "e:\\NLP\\nlp-beginner-finish-master\\task1/model/checkpoints\\best_validation"
+all_model_checkpoint_paths: "e:\\NLP\\nlp-beginner-finish-master\\task1/model/checkpoints\\best_validation"
